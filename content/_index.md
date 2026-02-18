@@ -49,7 +49,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Projects
       filters:
         folders:
           - publications
@@ -57,17 +57,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-
 
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
