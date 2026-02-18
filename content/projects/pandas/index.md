@@ -1,15 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Carbon Tax Mapper
+date: 2025-01-01
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Economics
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Mapping carbon tax
 
 <!--more-->

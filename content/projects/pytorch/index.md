@@ -1,15 +1,14 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Tree Plotting
+date: 2026-01-01
 links:
   - type: site
-    url: https://github.com/pytorch/pytorch
+    url: https://gaulttreeplots.streamlit.app/
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Analysis
+
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Tree plotting for gault
 
 <!--more-->
