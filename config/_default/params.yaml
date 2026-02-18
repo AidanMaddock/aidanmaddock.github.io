@@ -3,11 +3,11 @@ hugoblox:
   identity:
     name: Aidan Maddock
     type: person
-    tagline: MSc Student in Environmental Change and Management
-    description: "I am a "
+    tagline: Dog
+    description: dog
   theme:
     mode: system
-    pack: matcha
+    pack: minimal
     colors:
       primary: ""
       secondary: ""
