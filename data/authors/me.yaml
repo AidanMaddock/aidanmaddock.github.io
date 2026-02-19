@@ -21,76 +21,87 @@ links:
   - icon: "at-symbol"
     url: "aidanlnmaddock@gmail.com"
     label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
-  - icon: "brands/github"
-    url: "https://github.com/example"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
-  - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
-  - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://www.linkedin.com/in/aidanmaddock"
+
 interests:
   - "Environmental Policy"
   - "GIS"
   - "Economics"
+
 education:
   - degree: "MSc Environmental Change and Management"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
+    institution: "University of Oxford"
+    start: "2025-09-01"
+    end: "2026-09-30"
+    summary: "Dissertation: Environmental Policy Bundles and Growth — a machine learning application examining links between environmental regulation and economic performance."
+  - degree: "BA Joint Honours Economics and Geography"
+    institution: "McGill University"
+    start: "2021-09-01"
+    end: "2025-05-31"
+    summary: "First Class (GPA 3.76/4). Focus on environmental policy, econometrics, and advanced geospatial analysis. Honours thesis on carbon taxation across 13 million Canadian households using spatial microsimulation."
+    button: 
+      text: "Download dissertation" 
+      url: "/resume.pdf" 
       icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Research Associate"
+    org: "Climate Compatible Growth, University of Oxford"
+    start: "2026-02-01"
+    summary: "Analyzing the stability of climate finance networks under geopolitical shocks. Contributing to two forthcoming papers on the political economy of multilateral climate funds."
+  - role: "Field Operations Assistant"
+    org: "Gault Nature Reserve"
+    start: "2025-05-01"
+    end: "2025-08-31"
+    summary: "Built GIS-based infrastructure models to improve emergency response times and developed an interactive dashboard to evaluate conservation outcomes."
+  - role: "Research Assistant"
+    org: "Peruvian Amazon Rural Livelihoods and Poverty Project"
+    start: "2025-04-01"
+    end: "2025-10-31"
+    summary: "Designed and implemented a 500+ household livelihood survey within World Bank software. Cleaned and structured large demographic and financial datasets in STATA."
+  - role: "Arts Research Fellow"
+    org: "Department of Geography, McGill University"
+    start: "2024-05-01"
+    end: "2024-07-31"
+    summary: "Awarded competitive summer grant to study inequalities in household carbon taxation using large language models."
+
 skills:
-  - name: "Technical Skills"
+  - name: "Programming & Data"
     items:
+      - label: "R"
+        level: 5
+      - label: "STATA"
+        level: 5
       - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
         level: 4
-  - name: "Research & Communication"
+      - label: "SQL"
+        level: 4
+      - label: "Excel"
+        level: 5
+  - name: "Methods"
     items:
-      - label: "Academic Writing"
+      - label: "Econometrics (DiD, LASSO, VAR)"
         level: 5
-      - label: "Conference Presentations"
+      - label: "Network Analysis"
         level: 4
-      - label: "Grant Proposals"
-        level: 4
+      - label: "Spatial Microsimulation"
+        level: 5
+  - name: "Geospatial"
+    items:
+      - label: "ArcGIS Pro"
+        level: 5
+
 languages:
   - name: "English"
     level: 5
     label: "Native"
-  - name: "Spanish"
+  - name: "French"
     level: 4
-    label: "Fluent"
+    label: "Professional working proficiency"
+
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
+  - title: "CAG Undergraduate Award"
+    awarder: "Canadian Association of Geographers"
+    date: "2025-01-01"
+    summary: "Awarded for honours thesis on spatial distributional impacts of carbon taxation."
     icon: "hero/trophy"
