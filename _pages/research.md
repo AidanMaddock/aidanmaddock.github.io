@@ -28,4 +28,4 @@ Multilateralism in climate finance is under pressure. Using a novel tripartite n
 **[Spatiotemproal Prediction of Deer Road Kill in Idaho](https://drive.google.com/file/d/1nWeyaRZlvVptszMAznwE9KscYiOplt_J/view?usp=sharing)**
 Deer roadkill is highly pervasive and has large economic costs, yet existing modelling approaches tend to ignore how temporal clustering can shift over time. A space-time implementation of Local Indicators of Spatial Association (LISA) is used to find time-varying hotspots of deer roadkill in Idaho and a MaxEnt model is found to be moderately successful in predicting these hotspots. The results suggest that predictive models that take into account both time and space could be useful for policymakers in deciding more effective mitigation strategies.
 
-![Deer roadkill hotspots in Idaho]({{ 'images/Deermap.png' | relative_url }})
+![Deer roadkill hotspots in Idaho]({{ 'images/DeerMap.png' | relative_url }})
