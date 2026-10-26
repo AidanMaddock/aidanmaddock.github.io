@@ -1,12 +1,12 @@
 ---
-title: "Tree Plotter"
-excerpt: "Interactive tree plots built with Streamlit"
+title: "Gault Nature Reserve: Interactive Tree Plots & Maps"
+excerpt: "Interactive tree plots<br/><img src='/images/gault/GaultCover.png'>"
 collection: portfolio
 ---
 
 <h2>Interactive Tree Plots</h2>
 
-Explore my interactive dashboard below, this allows users to explore tree plots and history at the Gault Nature Reserve.
+I created an interactive dashboard that allows staff and policymakers to explore tree plots and history at the Gault Nature Reserve.
 
 <iframe
   src="https://gaulttreeplots.streamlit.app/?embed=true"
@@ -16,3 +16,118 @@ Explore my interactive dashboard below, this allows users to explore tree plots 
   title="Interactive Tree Plots">
 </iframe>
 
+
+<h2>Maps & Scientific Visualizations</h2>
+
+<p>
+  I also developed maps, spatial analyses, and educational
+  infographics to communicating our
+  ecological research and engage with visitors. 
+</p>
+
+<div class="gault-gallery">
+
+  <figure>
+    <a href="/images/gault/PDS.png" target="_blank">
+      <img src="/images/gault/PDS.png"
+           alt="Trail safety spatial analysis" loading="lazy">
+    </a>
+    <figcaption>
+      <strong>Trail Safety & Spatial Analysis</strong>
+      <span>Mapping potential emergency points across the trail network.</span>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/images/gault/BirdMap.png" target="_blank">
+      <img src="/images/gault/BirdMap.png"
+           alt="Bird diversity map" loading="lazy">
+    </a>
+    <figcaption>
+      <strong>Bird Diversity on the Trails</strong>
+      <span>Visualizing bird observations across the reserve.</span>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/images/gault/englishspecies.png" target="_blank">
+      <img src="/images/gault/englishspecies.png"
+           alt="Invasive species infographic" loading="lazy">
+    </a>
+    <figcaption>
+      <strong>Invasive Species Awareness</strong>
+      <span>Educational material on ecological threats and prevention.</span>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/images/gault/mineralsfrench.png" target="_blank">
+      <img src="/images/gault/mineralsfrench.png"
+           alt="Mineral diversity infographic" loading="lazy">
+    </a>
+    <figcaption>
+      <strong>Mineral Diversity</strong>
+      <span>Exploring the geological heritage of Mont Saint-Hilaire.</span>
+    </figcaption>
+  </figure>
+
+</div>
+
+<style>
+.gault-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+  margin: 32px 0;
+  align-items: start;
+}
+
+.gault-gallery figure {
+  margin: 0;
+  min-width: 0;
+}
+
+.gault-gallery a {
+  display: block;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #f4f5f3;
+  box-shadow: 0 3px 14px rgba(0,0,0,0.07);
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.gault-gallery a:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.15);
+}
+
+.gault-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gault-gallery figcaption {
+  padding: 12px 2px;
+}
+
+.gault-gallery figcaption strong {
+  display: block;
+  font-size: 0.95rem;
+  margin-bottom: 5px;
+}
+
+.gault-gallery figcaption span {
+  display: block;
+  font-size: 0.82rem;
+  color: #777;
+  line-height: 1.5;
+}
+
+@media (max-width: 650px) {
+  .gault-gallery {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+</style>
