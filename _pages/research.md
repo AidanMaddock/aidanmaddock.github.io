@@ -6,6 +6,19 @@ author_profile: true
 
 ## Works in Progress
 
+<div>
+  <strong>
+    <a href="https://drive.google.com/file/d/1GUo_eNOI7JXxUSIxdckhbgJ9QJ_dS97l/view?usp=sharing">
+      Taxing Carbon, Taxing Place? Spatial Disparities of Carbon Tax Impacts across 13 Million Canadian Households
+    </a>
+  </strong>
+  <em>(with Sebastien Breau)</em>
+  <details>
+    <summary>Abstract</summary>
+    <p>Canadian federal policy mandated a minimum price on greenhouse gas emissions...</p>
+  </details>
+</div>
+
 **[Taxing Carbon, Taxing Place? Spatial Disparities of Carbon Tax Impacts across 13 Million Canadian Households](https://drive.google.com/file/d/1GUo_eNOI7JXxUSIxdckhbgJ9QJ_dS97l/view?usp=sharing)** *(with Sebastien Breau)*
 <details>
   <summary>Abstract</summary>
